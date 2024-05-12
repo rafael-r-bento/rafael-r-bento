@@ -7,4 +7,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rafael-r-bento&theme=default&show_icons=true&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-r-bento&theme=default&show_icons=true&hide_border=false&&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-r-bento&theme=default&show_icons=true&hide_border=false)
